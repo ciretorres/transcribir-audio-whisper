@@ -1,0 +1,1 @@
+# transcribir audio con whisper
